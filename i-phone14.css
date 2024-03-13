@@ -1,0 +1,414 @@
+.parent-node-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: -617px;
+  max-height: 100%;
+  width: 1512px;
+  object-fit: cover;
+}
+.logo-savior-red-copy-1 {
+  position: absolute;
+  top: 30px;
+  left: 54px;
+  width: 60.3px;
+  height: 66.6px;
+  object-fit: cover;
+  z-index: 1;
+}
+.child-nodes-icon {
+  position: absolute;
+  top: 40px;
+  left: 21px;
+  width: 25px;
+  height: 25px;
+  z-index: 1;
+}
+.leaf-node {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 588px;
+}
+.saviour {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.container-node {
+  width: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 6.5px 0 0;
+  box-sizing: border-box;
+}
+.connect-wallet {
+  position: relative;
+  font-size: 9.5px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+  padding-right: 0;
+}
+.connection-node,
+.output-node {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.output-node {
+  cursor: pointer;
+  border: 0;
+  padding: 7.899999999999977px 12.600000000000364px 8.100000000000023px;
+  background-color: transparent;
+  border-radius: 12.19px;
+  background: linear-gradient(93.73deg, #ed0137 20.07%, #f05734 75.59%);
+  overflow: hidden;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 1;
+}
+.connection-node {
+  position: absolute;
+  top: 40px;
+  left: 116.6px;
+  width: 240.7px;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: center;
+  font-size: 18.2px;
+  color: #fff;
+  font-family: "ZCOOL KuaiLe";
+}
+.introduction {
+  margin: 0;
+  position: absolute;
+  top: 660px;
+  left: calc(50% - 142px);
+  font-size: inherit;
+  line-height: 119%;
+  font-weight: 400;
+  font-family: inherit;
+  text-align: left;
+  display: inline-block;
+  width: 272px;
+}
+.brick-matrix-generate-a-logo-c-icon {
+  position: absolute;
+  top: 689px;
+  left: -28px;
+  width: 446px;
+  height: 446px;
+  object-fit: cover;
+  z-index: 1;
+}
+.branch-node-icon,
+.branch-node-icon1 {
+  position: absolute;
+  top: 1574px;
+  left: -851px;
+  width: 1512px;
+  height: 1490px;
+  object-fit: cover;
+}
+.branch-node-icon1 {
+  top: 3433px;
+  left: 1760px;
+  height: 1663px;
+}
+.iphone-14-5-child {
+  position: absolute;
+  top: 3093.4px;
+  left: 2680.3px;
+  border-radius: 50%;
+  background-color: rgba(40, 39, 40, 0.76);
+  width: 287.4px;
+  height: 287.4px;
+  display: none;
+}
+.adjacent-nodes-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 821px;
+  object-fit: cover;
+}
+.cluster-nodes {
+  position: absolute;
+  top: 445.8px;
+  left: 843.23px;
+  border-radius: 50%;
+  background-color: #be0627;
+  width: 287.4px;
+  height: 289.2px;
+  transform: rotate(70.09deg);
+  transform-origin: 0 0;
+  z-index: 2;
+}
+.descendant-nodes {
+  position: absolute;
+  top: 2607px;
+  left: 2067px;
+  width: 1512px;
+  height: 821px;
+}
+.ellipse-div,
+.iphone-14-5-inner,
+.iphone-14-5-item {
+  position: absolute;
+  top: 3093.4px;
+  left: 2680.3px;
+  border-radius: 50%;
+  background-color: #6d0101;
+  width: 287.4px;
+  height: 287.4px;
+  display: none;
+}
+.ellipse-div,
+.iphone-14-5-inner {
+  background-color: #6e1d2f;
+}
+.ellipse-div {
+  background-color: #dd2852;
+}
+.participate-in-our {
+  margin: 0;
+  position: absolute;
+  top: 1638px;
+  left: 43px;
+  font-size: 28px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 304px;
+  z-index: 1;
+}
+.our-mission-is,
+.weve-all-been {
+  margin: 0;
+}
+.read-more {
+  margin: 0;
+  color: rgba(255, 252, 253, 0.66);
+}
+.blank-line {
+  margin: 0;
+}
+.weve-all-been-container {
+  margin: 0;
+  align-self: stretch;
+  height: 388px;
+  position: relative;
+  font-size: inherit;
+  line-height: 119%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.documents {
+  position: relative;
+  font-weight: 600;
+}
+.eparrow-down-bold-icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.anchor-node {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0 0;
+}
+.intermediate-node {
+  border-radius: 17.92px;
+  background: linear-gradient(93.73deg, #d51b46 11.92%, #ee6910 83.65%);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 13.899999999999975px 18px 13.899999999999975px 17.399999999999636px;
+  gap: 0 9.2px;
+}
+.composite-node,
+.flattened-node,
+.intermediate-node {
+  display: flex;
+  align-items: flex-start;
+}
+.flattened-node {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  text-align: left;
+  font-size: 13.9px;
+  color: #fff;
+  font-family: Poppins;
+}
+.composite-node {
+  position: absolute;
+  top: 1098px;
+  left: 37px;
+  width: 317px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 8px 0;
+  text-align: center;
+  font-size: 23px;
+  color: #fffcfd;
+  font-family: "ZCOOL KuaiLe";
+}
+.become-an-affiliate {
+  position: absolute;
+  top: 2417px;
+  left: calc(50% - 179px);
+  font-size: 24px;
+  font-family: Shojumaru;
+  color: #ed0137;
+  text-align: center;
+  display: inline-block;
+  width: 349px;
+  z-index: 1;
+}
+.fluentcopy-16-filled {
+  margin: 0;
+  position: absolute;
+  top: 2548.9px;
+  left: 338px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+  z-index: 1;
+}
+.branch-node-icon2 {
+  position: absolute;
+  top: 3862px;
+  left: -864px;
+  width: 1512px;
+  height: 422px;
+  object-fit: cover;
+  z-index: 2;
+}
+.divelementor-container {
+  height: 39.4px;
+  width: 550px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: calc(50% - 275px);
+}
+.where-blockchain-heroes {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 119%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.array-node,
+.section {
+  position: absolute;
+  max-width: 100%;
+}
+.section {
+  top: 164px;
+  left: calc(50% - 170px);
+  border-radius: 20px;
+  background-color: rgba(36, 35, 35, 0.4);
+  width: 342px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 21px 14px 16px 4px;
+  box-sizing: border-box;
+  z-index: 1;
+  text-align: center;
+  font-size: 32px;
+  color: #fff;
+  font-family: Shojumaru;
+}
+.array-node {
+  top: 3615px;
+  left: 10.7px;
+  width: 379.3px;
+  align-items: flex-end;
+  gap: 17px 0;
+}
+.array-node,
+.shape-node,
+.shape-node-inner,
+.text-node {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.text-node {
+  margin-left: -2px;
+  width: 395px;
+  align-items: flex-end;
+  gap: 80px 0;
+  max-width: 100%;
+}
+.shape-node,
+.shape-node-inner {
+  height: 1189px;
+  width: -2238px;
+  align-items: flex-start;
+  padding: 7px 0 0;
+  box-sizing: border-box;
+}
+.shape-node {
+  position: absolute;
+  top: 4340px;
+  left: 0;
+  width: 100%;
+  height: 1329px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 0 140px;
+  max-width: 100%;
+  gap: 20px;
+}
+.if-statement-node {
+  position: absolute;
+  top: 2599px;
+  left: 186px;
+  font-size: 34.3px;
+  display: flex;
+  font-family: "Roboto Mono";
+  align-items: center;
+  justify-content: center;
+  width: 20.8px;
+  height: 42.5px;
+  text-shadow: 0.5px 0 0#ed0137, 0 0.5px 0#ed0137, -0.5px 0 0#ed0137,
+    0-0.5px 0#ed0137;
+  z-index: 3;
+}
+.iphone-14-5 {
+  width: 100%;
+  height: 5669px;
+  position: relative;
+  background-color: #0a0a0a;
+  overflow: hidden;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 32px;
+  color: #ed0137;
+  font-family: Shojumaru;
+}
