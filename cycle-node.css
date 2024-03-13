@@ -1,0 +1,211 @@
+.dead-end-node {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: -504px;
+  max-height: 100%;
+  width: 1512px;
+  object-fit: cover;
+  z-index: 1;
+}
+.group-icon,
+.group-icon1 {
+  position: absolute;
+  top: 567.3px;
+  left: 142px;
+  width: 54.2px;
+  height: 40.7px;
+  z-index: 2;
+}
+.group-icon1 {
+  top: 603.5px;
+  left: 137.6px;
+  width: 15.3px;
+  height: 36.1px;
+  z-index: 3;
+}
+.group-icon2,
+.group-icon3 {
+  position: absolute;
+  top: 636.8px;
+  left: 139.2px;
+  width: 32.5px;
+  height: 39px;
+  z-index: 4;
+}
+.group-icon3 {
+  top: 612.2px;
+  left: 165.6px;
+  width: 89.2px;
+  height: 72.3px;
+  z-index: 5;
+}
+.group-icon4,
+.group-icon5 {
+  position: absolute;
+  top: 584.4px;
+  left: 229.3px;
+  width: 23.8px;
+  height: 30.5px;
+  z-index: 6;
+}
+.group-icon5 {
+  top: 567.3px;
+  left: 196.2px;
+  width: 41.4px;
+  height: 25.5px;
+  z-index: 7;
+}
+.processor-nodes-icon {
+  position: absolute;
+  top: 3.3px;
+  left: 25.6px;
+  width: 4.3px;
+  height: 6.5px;
+  z-index: 3;
+}
+.filter-nodes-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 9.7px;
+  z-index: 4;
+}
+.input-output-nodes {
+  position: absolute;
+  top: 567.4px;
+  left: 133.7px;
+  width: 30px;
+  height: 9.8px;
+}
+.search-nodes-icon {
+  position: absolute;
+  top: 0.3px;
+  left: 27.4px;
+  width: 7.8px;
+  height: 0.6px;
+  z-index: 4;
+}
+.matching-nodes-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 35.1px;
+  height: 0.9px;
+  z-index: 5;
+}
+.sorting-nodes {
+  position: absolute;
+  top: 620.4px;
+  left: 102.6px;
+  width: 35.2px;
+  height: 0.9px;
+}
+.aggregating-nodes-icon {
+  position: absolute;
+  top: 0;
+  left: 26.6px;
+  width: 6.3px;
+  height: 4.6px;
+  z-index: 5;
+}
+.calculating-nodes-icon,
+.counting-nodes {
+  position: absolute;
+  width: 32.9px;
+  height: 6.9px;
+}
+.calculating-nodes-icon {
+  top: 0;
+  left: 0;
+  z-index: 6;
+}
+.counting-nodes {
+  top: 660.3px;
+  left: 115.8px;
+}
+.retrieving-nodes-icon,
+.storing-nodes-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4.6px;
+  height: 6.3px;
+  z-index: 6;
+}
+.retrieving-nodes-icon {
+  width: 30.3px;
+  height: 9.5px;
+  z-index: 7;
+}
+.transforming-nodes {
+  position: absolute;
+  top: 673.3px;
+  left: 230.6px;
+  width: 30.3px;
+  height: 9.5px;
+}
+.hiding-nodes-icon {
+  position: absolute;
+  top: 1.9px;
+  left: 0;
+  width: 6.8px;
+  height: 3.8px;
+  z-index: 7;
+}
+.displaying-nodes,
+.iterating-nodes-icon {
+  position: absolute;
+  width: 33.7px;
+  height: 5.7px;
+}
+.iterating-nodes-icon {
+  top: 0;
+  left: 0;
+  z-index: 8;
+}
+.displaying-nodes {
+  top: 591.5px;
+  left: 247.3px;
+}
+.control-flow-nodes {
+  position: absolute;
+  top: 3.6px;
+  left: 0;
+  width: 3px;
+  height: 7.2px;
+  z-index: 8;
+}
+.conditional-nodes,
+.data-hub-icon {
+  position: absolute;
+  width: 27.9px;
+  height: 10.8px;
+}
+.data-hub-icon {
+  top: 0;
+  left: 0;
+  z-index: 9;
+}
+.conditional-nodes {
+  top: 560.5px;
+  left: 218.6px;
+}
+.logo-savior-red-copy-2 {
+  position: absolute;
+  top: 582.4px;
+  left: 142px;
+  width: 108.6px;
+  height: 120px;
+  object-fit: cover;
+  z-index: 9;
+}
+.cycle-node {
+  position: absolute;
+  top: 3064px;
+  left: 0;
+  width: 390px;
+  height: 798px;
+}
