@@ -1,0 +1,212 @@
+.output-sorter-icon {
+  height: 163px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.output-sorter-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 28px;
+}
+.sitemap {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 1.71px;
+  line-height: 25.64px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: inherit;
+  background: linear-gradient(92.23deg, #ff002a, #720005);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.sitemap-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 69px;
+}
+.link-about,
+.link-form {
+  position: relative;
+  line-height: 19.23px;
+  font-weight: 600;
+}
+.link-about-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.link-projects {
+  position: relative;
+  line-height: 19.23px;
+  font-weight: 600;
+}
+.frame-parent5,
+.link-projects-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-projects-wrapper {
+  flex-direction: row;
+  padding: 0 4px;
+}
+.frame-parent5 {
+  width: 77px;
+  flex-direction: column;
+  gap: 16px 0;
+}
+.link-projects1 {
+  position: relative;
+  line-height: 19.23px;
+  font-weight: 600;
+}
+.link-projects-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px;
+}
+.link-projects2,
+.link-projects3 {
+  position: relative;
+  line-height: 19.23px;
+  font-weight: 600;
+}
+.link-projects-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-parent6 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+  min-width: 56px;
+}
+.link-projects4,
+.link-projects5 {
+  position: relative;
+  line-height: 19.23px;
+  font-weight: 600;
+}
+.link-projects-frame {
+  flex-direction: row;
+  padding: 0 6px 0 8px;
+}
+.frame-parent3,
+.frame-parent4,
+.link-projects-frame,
+.link-projects-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-projects-group {
+  flex-direction: column;
+  gap: 16px 0;
+}
+.frame-parent3,
+.frame-parent4 {
+  align-self: stretch;
+}
+.frame-parent4 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0 22px;
+  font-size: 10px;
+}
+.frame-parent3 {
+  flex-direction: column;
+  gap: 24px 0;
+}
+.link-icon-twitter6b3c178f26 {
+  min-height: 28px;
+}
+.link-icon-telegram3e7b16fc6,
+.link-icon-twitter6b3c178f26 {
+  width: 27.5px;
+  height: 27.5px;
+  position: relative;
+}
+.link-icon-telegram3e7b16fc6-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 4.599999999998545px 0 0;
+}
+.clarityemail-solid-icon {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.clarityemail-solid-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.link-icon-twitter6b3c178f26-parent {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0 13.7px;
+}
+.footer,
+.footer-inner,
+.footer-wrapper,
+.link-icon-twitter6b3c178f26-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 72px;
+}
+.footer,
+.footer-wrapper {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer {
+  flex: 1;
+  background: linear-gradient(180deg, #120101, #120101);
+  flex-direction: column;
+  padding: 64px 65px 25.5px 67px;
+  gap: 38px 0;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  font-family: Poppins;
+}
+.footer-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 2px;
+}
